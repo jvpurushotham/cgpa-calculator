@@ -42,11 +42,6 @@ This CGPA Calculator is a C++ program that allows users to calculate their Cumul
 - **Language**: C++
 - **Libraries**: `<bits/stdc++.h>`, `<iostream>`, `<string>`, `<iomanip>`
 
-## Future Enhancements
-
-- Add file input/output for storing and retrieving subject data.
-- Improve user interface for better input validation and error handling.
-
 ## How to Run
 
 1. Compile the program using a C++ compiler:
